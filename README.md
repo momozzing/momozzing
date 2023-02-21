@@ -12,3 +12,4 @@ Interesting
 
 ![momo's GitHub stats](https://github-readme-stats.vercel.app/api?username=momozzing&show_icons=true&theme=dark)
 
+<a href="https://opgc.me/#/users/momozzing" target="_blank"><img src="https://api.opgc.me/githubs/users/momozzing/tag/?theme=basic" /></a>
